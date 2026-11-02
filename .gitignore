@@ -38,6 +38,10 @@ build/
 dist/
 *.egg-info/
 
+# Large review datasets
+data/reviews_raw.csv
+data/reviews_cleaned.csv
+
 # Optional: ignore large raw datasets
 # Uncomment the next line if you do not want to upload the raw dataset
 # data/reviews_raw.csv
